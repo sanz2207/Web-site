@@ -1,0 +1,113 @@
+  body {
+  background-image: url(../src/img/Escola\ da\ nuvem.jpeg);
+    font-family: Arial, Helvetica, sans-serif;
+    background-size: cover;
+    border-radius: 100%;
+    color: white;
+
+     
+ }
+
+ ul {
+   display: flex;
+   justify-content: space-between;
+   list-style-type: none;
+   align-items: center;
+   padding: 20px;
+   background-color: black;
+   cursor: pointer;
+   
+   
+   
+   
+   
+
+
+ }
+
+ h4 {
+  text-align: right;
+  margin: 5px;
+  padding: 70px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  position: relative;
+  right: 50px;
+  left: 30px;
+  margin: 2px;
+  
+  
+  
+
+
+ }
+
+  img {
+  cursor: pointer;
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+  border: 3px solid slategray;
+  position: relative;
+  left: 80px;
+  top: 30px;
+  margin-left: 55px;
+  right: 65px;
+  left: 65px;
+ margin: 20px;
+ margin-top: -50px;
+
+  
+  
+  
+  
+  
+
+ }
+
+ header a {
+  position: relative;
+  right: 30px;
+  top: -10px;
+  text-decoration: none                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ;
+  color: yellow;
+  background-color: blue;
+  font-size: 16px;
+  border: 2px solid white;
+  margin-right: 20px;
+  right: 150px;
+  margin-top: -100px;
+
+
+
+ }
+
+ header p {
+  position: relative;
+  top: -130px;
+  left: 0;
+  font-size: 12px;
+  margin-right: 70px;
+  left:  -100px;
+  right: 80px;
+  margin-top: 80px;
+
+ }
+
+ header {
+  text-align: right;
+  position: relative;
+  display: list-item;
+
+
+  
+ }
+
+ nav a:hover {
+    color: blue;
+
+  }
+
+  a{
+    color: white;
+    text-decoration: none;
+  }
